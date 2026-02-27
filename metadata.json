@@ -1,0 +1,5 @@
+{
+  "name": "Retro Snake",
+  "description": "A classic Gameboy-style Snake game with keyboard and on-screen controls.",
+  "requestFramePermissions": []
+}

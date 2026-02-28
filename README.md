@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://bdoshchak.github.io/snake-the-game/public/thumbnail.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://bdoshchak.github.io/snake-the-game/thumbnail.png" />
 </div>
 
 Snake the Game

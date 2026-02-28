@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gb-darkest: #0f380f;
+  --color-gb-dark: #306230;
+  --color-gb-light: #8bac0f;
+  --color-gb-lightest: #9bbc0f;
+  --font-mono: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: #2a2a2a;
+  color: #e5e5e5;
+}
+
+@keyframes popIn {
+  0% { transform: scale(0.5); opacity: 0; }
+  50% { transform: scale(1.2); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.animate-pop {
+  animation: popIn 0.3s ease-out forwards;
+}
